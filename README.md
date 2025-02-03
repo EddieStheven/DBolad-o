@@ -8,7 +8,7 @@ The goal is to deepen understanding and improve skills in database management sy
 
 ## Resources
 
-The study is based on the course "Database Studies" by DevDojo, available [here](https://www.youtube.com/watch?v=anwGFe5T0U8&list=PL62G310vn6nHAeLcycI39g3vHwbZ3fCKl&index=7&ab_channel=DevDojo).
+The study is based on the course "Database Studies" by DevDojo.
 
 ## Tools and Technologies
 
