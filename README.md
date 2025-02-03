@@ -1,4 +1,4 @@
-# DBnextage
+# DBoladão
 
 This repository is dedicated to studying databases using a practical and hands-on approach. It includes learning about tools and technologies such as SQL Server, DBeaver, Docker, and MySQL within Docker environments.
 
